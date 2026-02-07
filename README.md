@@ -6,4 +6,4 @@ So for example this is folder structure scheme:
 
 ~/home/SmallSimpleManuals/Yamaha/R1/2006
 
-This is something i have use of and it fos created out of boredom.
+This is something i have use of and it was created out of boredom.
